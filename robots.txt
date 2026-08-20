@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-jixhlj.yoursingles.online/sitemap.xml
